@@ -1,4 +1,4 @@
-package ex_4_1;
+package ex_1_2;
 
 import static java.util.Calendar.DAY_OF_WEEK;
 import static java.util.Calendar.FRIDAY;
@@ -46,7 +46,7 @@ public class Consumidor {
 		DateFormat df = new SimpleDateFormat("dd/MM/yyyy (EEEE)");
 
 		if (pizzaiolo == null) {
-			System.out.println("A pizzaria está fechada hoje! - " + df.format(data));
+			System.out.println("A pizzaria estï¿½ fechada hoje! - " + df.format(data));
 		} else {
 
 			Pizza pizza = pizzaiolo.criarPizza();
