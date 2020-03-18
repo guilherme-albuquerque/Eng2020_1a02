@@ -1,6 +1,6 @@
-package ex_4_1;
+package ex_1_2;
 
-public class PizzaCalabresa extends Pizza {
+public class CalzoneCalabresa extends Calzone {
 
 	@Override
 	public String obterIngredientes() {

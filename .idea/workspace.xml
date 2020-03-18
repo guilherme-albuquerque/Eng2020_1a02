@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0f59314-bfc8-48d8-9b54-347d9cea1ccf" name="Default Changelist" comment="" />
+    <list default="true" id="d0f59314-bfc8-48d8-9b54-347d9cea1ccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Calzone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Calzone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/CalzoneCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/CalzoneCalabresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/CalzonePresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/CalzonePresunto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Consumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaCalabresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaPresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaPresunto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Pizzaiolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Pizzaiolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaioloCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaioloCalabresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaioloPresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaioloPresunto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZHAsUrVWeAkhqvMDYwuqZj1KCL" />
   <component name="ProjectViewState">
@@ -14,13 +31,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Guilherme\Desktop\Bonato\Eng2020_1a02\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +66,8 @@
       <workItem from="1584486340958" duration="7000" />
       <workItem from="1584486352013" duration="4000" />
       <workItem from="1584486365429" duration="404000" />
+      <workItem from="1584487132238" duration="763000" />
+      <workItem from="1584492081262" duration="106000" />
     </task>
     <servers />
   </component>
@@ -49,10 +79,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584486008901" />
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584487533685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584487533685" />
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584485900700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584485900700" />
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584487474098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1584487474098" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1584486616747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
