@@ -1,10 +1,7 @@
 package ex_3_2;
 
-import java.awt.List;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Random;
+
+import java.util.*;
 
 class Deck {
 public Deck( ) {
@@ -15,7 +12,7 @@ Suit[] suits = {Suit.SPADES, Suit.HEARTS, Suit.CLUBS,
 Suit.DIAMONDS};
 for(Suit suit: suits) {
 for(int i = 2; i <= 14; i++) {
-cards.add((Collection<?>) new Card(suit, i));
+cards.add((Collection<"?">) new Card(suit, i));
 }
 }
 
@@ -23,11 +20,15 @@ cards.add((Collection<?>) new Card(suit, i));
 Collections.shuffle(cards, new Random( ));
 }
 public void print( ) {
-for(Card card: card) {
-card.print( );
+for(Object card: card) {
+card( );
 }
 }
-private List card;
+
+    private void card() {
+    }
+
+    private List card;
 
 
 public static Deck getInstance(Deck deck) {

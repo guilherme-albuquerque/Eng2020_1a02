@@ -2,24 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f59314-bfc8-48d8-9b54-347d9cea1ccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eng2020_1a02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_2/Confidencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_2/Informacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_2/Publico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_2/ResourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/DigitarArq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/DigitarLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/DigitarLogCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/FerramentaArq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/FerramentaLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/FerramentaLogCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_3/ResourceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/eng2020_1a03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Calzone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Calzone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/CalzoneCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/CalzoneCalabresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/CalzonePresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/CalzonePresunto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Consumidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaCalabresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaPresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaPresunto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/Pizzaiolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/Pizzaiolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaioloCalabresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaioloCalabresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_1/PizzaioloPresunto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_2/PizzaioloPresunto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_3_2/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_3_2/Deck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +50,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -46,9 +65,27 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ex_2_3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Guilherme\Desktop\Bonato\Eng2020_1a02\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_2_2.Main" />
+      <module name="eng2020_1a02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,6 +105,9 @@
       <workItem from="1584486365429" duration="404000" />
       <workItem from="1584487132238" duration="763000" />
       <workItem from="1584492081262" duration="106000" />
+      <workItem from="1584533661540" duration="4818000" />
+      <workItem from="1584543865348" duration="2213000" />
+      <workItem from="1584547554354" duration="4532000" />
     </task>
     <servers />
   </component>
@@ -75,29 +115,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584486008901">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1584544361835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584486008901" />
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584544361835" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584543898418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584543898418" />
     <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584487533685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584487533685" />
-    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584485900700">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584559388539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584485900700" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584559388539" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584543932747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584543932747" />
+    <state x="349" y="67" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1584543929067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="67" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1584543929067" />
     <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584487474098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1584487474098" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1584486616747">
+    <state x="158" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584553365138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584486616747" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584486102500">
+    <state x="158" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584553365138" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1584544072011">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584486102500" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584544072011" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584545910924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584545910924" />
   </component>
 </project>
